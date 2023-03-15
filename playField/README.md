@@ -1,0 +1,1 @@
+This is the folder for the playField. It is a playField with 3x3 fields. One field consists of 50x50 of the same ArUco Markers. 1 field (from the 9 fields) = 1 ArUco Marker. The code is Python code with the OpenCV bibliothek.
